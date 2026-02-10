@@ -38,7 +38,7 @@
   "editor.clientsort.instructions": "Инструкции",
   "editor.clientsort.instructions.tooltip.1": "Нажмите и перетащите, чтобы переместить кнопки, или используйте стрелки на клавиатуре.",
   "editor.clientsort.instructions.tooltip.2": "Удерживайте Shift и нажимайте стрелки для быстрого перемещения.",
-  "editor.clientsort.instructions.tooltip.3": "Нажмите ПКМ на кнопку, чтобы включить или выключить её в макете.",
+  "editor.clientsort.instructions.tooltip.3": "Нажмите ПКМ по кнопке, чтобы включить или выключить её в макете.",
   "editor.clientsort.instructions.tooltip.4": "Удерживайте Shift и щёлкните ПКМ по кнопке, чтобы включить или отключить политику для этой операции.",
   "editor.clientsort.instructions.tooltip.5": "Щёлкните ЛКМ по слоту, чтобы игнорировать его.",
   "editor.clientsort.copyPolicyKey": "Скопировать ключ политики",
